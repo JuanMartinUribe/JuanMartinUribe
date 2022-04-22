@@ -1,6 +1,7 @@
-                                                    ### Hi there 👋 , Im Juan Martin Uribe
+###                                                     Hi there 👋 , Im Juan Martin Uribe
 
-<hr />
+                                                                    <hr />
+                                                                    
 <!--
 **JuanMartinUribe/JuanMartinUribe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
