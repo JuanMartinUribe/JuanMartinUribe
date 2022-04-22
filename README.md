@@ -1,4 +1,6 @@
-###                                                     Hi there 👋 , Im Juan Martin Uribe
+<p align="center">
+    ### Hi there 👋 , Im Juan Martin Uribe
+</p>
 
                                                                     <hr />
                                                                     
