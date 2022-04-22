@@ -1,5 +1,5 @@
 <h1 align="center">
-    <b>Hi there 👋 , I'm Juan Martin Uribe</b>
+    <b>Hi there 👋 , I'm Juan Martin</b>
 </h1>
 
 ## :sassy_man:  About me
