@@ -1,5 +1,5 @@
 <p align="center">
-    ### Hi there 👋 , Im Juan Martin Uribe
+    <b>Hi there 👋 , Im Juan Martin Uribe</b>
 </p>
 
                                                                     <hr />
