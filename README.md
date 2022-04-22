@@ -1,8 +1,7 @@
 <p align="center">
-    <b>Hi there 👋 , Im Juan Martin Uribe</b>
+    <big><b>Hi there 👋 , Im Juan Martin Uribe</b></big>
 </p>
-
-                                                                    <hr />
+<hr />
                                                                     
 <!--
 **JuanMartinUribe/JuanMartinUribe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
