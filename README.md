@@ -1,10 +1,17 @@
-<h1 align="center">
+<h1 style="text-align:center;" >
     <b>Hi there 👋 , Im Juan Martin Uribe</b>
 </h1>
-<hr />
+<hr style="width:85%">
 
-💁‍♂️ <h2>About Me
-                                                                    
+
+<div style="text-align:left;margin-left:7.5%;" >
+<h2>
+    💁‍♂️ About Me </h2>
+<hr style="width:92%;margin-right:15%"; >
+<ul>
+    <li> 🏫 `Junior` Computer Science Student at EAFIT University</li>
+</ul>             
+</div>                                            
 <!--
 **JuanMartinUribe/JuanMartinUribe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
