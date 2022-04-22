@@ -1,6 +1,6 @@
-<p align="center">
-    <big><b>Hi there 👋 , Im Juan Martin Uribe</b></big>
-</p>
+<h1 align="center">
+    <b>Hi there 👋 , Im Juan Martin Uribe</b>
+</h1>
 <hr />
                                                                     
 <!--
