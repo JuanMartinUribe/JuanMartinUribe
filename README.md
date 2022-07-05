@@ -3,7 +3,7 @@
 </h1>
 
 ## :sassy_man:  About me
-- :school: I am a `Junior` Computer Scientist
+- :school: I am a Computer Scientist
 - :computer: Interest in `data structures & algorithms` and `competitive programming`
 - :student: I’m currently learning: `Software Engineering` student at EAFIT University  
 - :nerd_face: Always `learning new concepts & technologies`
