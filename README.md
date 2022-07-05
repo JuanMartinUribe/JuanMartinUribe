@@ -6,7 +6,7 @@
 - :school: I am a Computer Scientist
 - :computer: Interest in `data structures & algorithms` and `competitive programming`
 - :student: I’m currently learning: `Software Engineering` student at EAFIT University  
-- :nerd_face: Always `learning new concepts & technologies`
+- :eyes: Always looking forward to learn new `concepts & technologies`
 - :colombia: 
 
 ## 🛠️ Skills
