@@ -5,7 +5,7 @@
 ## :sassy_man:  About me
 - :school: I am a Computer Scientist
 - :computer: Interest in `data structures & algorithms` and `competitive programming`
-- :student: I’m currently about to finish my degree: `Software Engineering` student at EAFIT University  
+- :student: I finished my degree: `Software Engineering` student at EAFIT University  
 - :eyes: Always looking forward to learn new `concepts & technologies`
 - :colombia: 
 
